@@ -10,5 +10,5 @@ module Memorable
       self.all.count
     end
   end
-  
+
 end
